@@ -163,8 +163,6 @@ Ext.define("Ext.ux.exporter.Button", {
     alias: "widget.exporterbutton",
     html: '<p></p>',
     config: {
-    	swfPath: 'https://github.com/jkenter/Ext.ux.Exporter/raw/master/downloadify.swf',
-        downloadImage: 'https://github.com/jkenter/Ext.ux.Exporter/raw/master/download.png',
         width: 62,
         height: 22,
         downloadName: "download"
