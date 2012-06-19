@@ -206,6 +206,7 @@ Ext.define("Ext.ux.exporter.Button", {
             append: false
         });
     }
+	window.console && console.log('Loading export button functionality...');
 });
 
 /**
