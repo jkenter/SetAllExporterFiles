@@ -267,7 +267,7 @@ Ext.define("Ext.ux.exporter.excelFormatter.Workbook", {
        * @type String
        * The title of the workbook (defaults to "Workbook")
        */
-      title: "Workbook",
+      title: "Leaf User Story Data",
 
       /**
        * @property worksheets
