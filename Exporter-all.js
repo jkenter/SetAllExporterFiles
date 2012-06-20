@@ -506,7 +506,7 @@ Ext.define("Ext.ux.exporter.excelFormatter.Workbook", {
           name: "Interior",
           properties: [
             {name: "Pattern", value: "Solid"},
-            {name: "Color",   value: "#A3C9F1"}
+            {name: "Color",   value: "#18A8E8"}
           ]
         },
         {
@@ -595,7 +595,7 @@ Ext.define("Ext.ux.exporter.excelFormatter.Worksheet", {
       hasHeadings: true,
       stripeRows : true,
 
-      title      : "Workbook",
+      title      : "Leaf User Story Data",
       columns    : store.fields == undefined ? {} : store.fields.items
     });
 
