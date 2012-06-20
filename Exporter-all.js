@@ -531,7 +531,7 @@ Ext.define("Ext.ux.exporter.excelFormatter.Workbook", {
           name: "Interior",
           properties: [
             {name: "Pattern", value: "Solid"},
-            {name: "Color",   value: "#33CCFF"}
+            {name: "Color",   value: "#8FC7FF"}
           ]
         }
       ]
