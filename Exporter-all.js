@@ -163,8 +163,8 @@ Ext.define("Ext.ux.exporter.Button", {
     alias: "widget.exporterbutton",
     html: '<p></p>',
     config: {
-    	swfPath: 'https://rally1.rallydev.com/slm/attachment/6807588879/downloadify.swf',
- 		downloadImage: 'https://rally1.rallydev.com/slm/attachment/6807585949/download.png',
+	    swfPath: 'https://rally1.rallydev.com/#/6008340047d/custom/6822976797',
+    	downloadImage: 'http://dl.dropbox.com/u/19908232/download.png',
         width: 62,
         height: 22,
         downloadName: "download"
